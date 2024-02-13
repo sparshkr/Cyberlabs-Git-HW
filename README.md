@@ -30,6 +30,7 @@ Your task is to explore any topic in BlockChain which interests you and write a 
    
     Smart contracts are self-executing contracts with the terms of theagreement directly written into code. Operating on blockchain technology,they automatically execute and enforce when predefined conditions are met,without the need for intermediaries. These contracts are revolutionizing variousindustries by providing transparency, security, and efficiency in transactions. With their immutable nature and decentralized architecture, smart contracts eliminate the need for trust between parties,as the terms are enforced by the underlying blockchain network. They hold immense potential for streamlining processes in finance, supply chain management, real estate, and beyond, promising to reshape the future of contract execution and business interactions.
 
+
 6. Pramodha -
    <br><strong>Pay-to-Public-Key-Hash (P2PKH) </strong>
 
@@ -48,3 +49,25 @@ In return they receive rewards based on their total stake,incentivizing nodes to
 <br><strong>Permissioned Blockchain</strong>
 A permissioned blockchain is a type of blockchain where access to the network and participation in the consensus mechanism are restricted to a certain group of users or entities. Unlike permissionless blockchains like Bitcoin or Ethereum, where anyone can join the network and validate transactions, permissioned blockchains require users to have explicit permission granted by a central authority or by existing participants.
 Many companies like IBM (Hyperledger Fabric Framework) , R3 (Corda) , Microsoft (Azure Blockchain Service) etc are some of the companies working on the same.
+
+
+9. Antriksh -
+   <br><strong>Layers - Scaling solutions in Blockchain</strong>
+
+   Layer 0 (Networking):
+   - This layer is at the very bottom, dealing with how computers communicate.
+   - It's about the hardware, wires, and protocols that let computers talk to each other.
+   - The main goal is to ensure smooth and reliable communication between computers in the network.<br>
+  Layer 1 (On-chain):
+   - This is the foundational layer where the actual transactions and smart contracts happen.
+   - It's like the main highway where all the traffic flows, representing the main blockchain protocol.
+   - Here, transactions are recorded and validated, forming the basis of the blockchain ledger.<br>
+  Layer 2 (Off-chain):
+   - Layer 2 sits on top of Layer 1 and provides additional scalability solutions.
+   - It's like adding extra lanes to the highway to reduce congestion.
+   - Solutions like state channels and sidechains help process transactions off the main chain, improving data exchange and efficiency.<br>
+  Layer 3(Applications):
+   - At thsi layer, we have the actual applications and services built on top of the blockchain.
+   - These are like the buildings and businesses along the highway, offering various services to users.
+   - Applications interact with lower layers to access blockchain data and functionality, enabling a wide range of decentralized services and experiences.
+
