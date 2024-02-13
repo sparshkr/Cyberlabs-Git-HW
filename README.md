@@ -24,22 +24,19 @@ Your task is to explore any topic in BlockChain which interests you and write a 
 4. Antriksh -
    <br><strong>Layers - Scaling solutions in Blockchain</strong>
 
-1. Layer 0 (Networking):
+   Layer 0 (Networking):
    - This layer is at the very bottom, dealing with how computers communicate.
    - It's about the hardware, wires, and protocols that let computers talk to each other.
    - The main goal is to ensure smooth and reliable communication between computers in the network.
-
-2. Layer 1 (On-chain):
+  Layer 1 (On-chain):
    - This is the foundational layer where the actual transactions and smart contracts happen.
    - It's like the main highway where all the traffic flows, representing the main blockchain protocol.
    - Here, transactions are recorded and validated, forming the basis of the blockchain ledger.
-
-3. Layer 2 (Off-chain):
+  Layer 2 (Off-chain):
    - Layer 2 sits on top of Layer 1 and provides additional scalability solutions.
    - It's like adding extra lanes to the highway to reduce congestion.
    - Solutions like state channels and sidechains help process transactions off the main chain, improving data exchange and efficiency.
-
-4. Layer 3(Applications):
+  Layer 3(Applications):
    - At thsi layer, we have the actual applications and services built on top of the blockchain.
    - These are like the buildings and businesses along the highway, offering various services to users.
    - Applications interact with lower layers to access blockchain data and functionality, enabling a wide range of decentralized services and experiences.
