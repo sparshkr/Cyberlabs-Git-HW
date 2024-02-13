@@ -43,3 +43,8 @@ Bitcoin on its proof 0f work consensus was very slow and inefficient for blockch
 ethereum now uses proof of stake network. PoS uses randomly selected validators to produce and approve blocks rather than miners.
 these validtors "stake" the native network's token by locking them into the blockchain.
 In return they receive rewards based on their total stake,incentivizing nodes to validate the network based on a return on investment .
+
+8. Samarth -
+<br><strong>Permissioned Blockchain</strong>
+A permissioned blockchain is a type of blockchain where access to the network and participation in the consensus mechanism are restricted to a certain group of users or entities. Unlike permissionless blockchains like Bitcoin or Ethereum, where anyone can join the network and validate transactions, permissioned blockchains require users to have explicit permission granted by a central authority or by existing participants.
+Many companies like IBM (Hyperledger Fabric Framework) , R3 (Corda) , Microsoft (Azure Blockchain Service) etc are some of the companies working on the same.
