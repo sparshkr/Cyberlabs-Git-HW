@@ -48,3 +48,8 @@ In return they receive rewards based on their total stake,incentivizing nodes to
 <br><strong>Permissioned Blockchain</strong>
 A permissioned blockchain is a type of blockchain where access to the network and participation in the consensus mechanism are restricted to a certain group of users or entities. Unlike permissionless blockchains like Bitcoin or Ethereum, where anyone can join the network and validate transactions, permissioned blockchains require users to have explicit permission granted by a central authority or by existing participants.
 Many companies like IBM (Hyperledger Fabric Framework) , R3 (Corda) , Microsoft (Azure Blockchain Service) etc are some of the companies working on the same.
+
+9. Shashwat -
+<br><strong>Polygon</strong>
+
+Polygon, is a layer 2 scaling solution for Ethereum that aims to improve its scalability and usability. Built on top of Ethereum, Polygon offers a framework for creating interconnected blockchain networks, known as sidechains, that can execute transactions and run smart contracts independently while still benefiting from Ethereum's security and decentralization. By utilizing these sidechains, Polygon significantly reduces transaction costs and speeds up transaction times, making decentralized applications (dApps) more accessible and efficient. Moreover, Polygon's modular architecture allows developers to customize their sidechains to suit specific use cases, further enhancing the flexibility and scalability of the Ethereum ecosystem. With its focus on scalability, interoperability, and user experience, Polygon plays a vital role in realizing Ethereum's potential as a global platform for decentralized finance (DeFi), and other dApps.
