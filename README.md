@@ -21,7 +21,10 @@ Your task is to explore any topic in BlockChain which interests you and write a 
 
    Forking in the context of blockchain technology refers to the process by which a blockchain network diverges into two separate paths due to a fundamental disagreement among participants regarding the rules governing the blockchain's operation. There are two main types of forks: soft forks and hard forks. Soft forks occur when changes to the blockchain protocol are backward compatible, tightening the rules of consensus while allowing non-upgraded nodes to still function within the network. On the other hand, hard forks are not backward compatible and result in a permanent split of the blockchain into two separate chains, each following different sets of rules. Forks can be planned, scheduled upgrades to the blockchain protocol, or contentious, arising from significant disagreement within the community about proposed changes. While forking allows blockchain networks to adapt and evolve, it can also introduce uncertainty and volatility, as participants may disagree on the direction of the network and the validity of different chains.
 
+4. Anushka
+   <br><strong>Proof Of Stake</strong>
 
+   Proof of Stake (PoS) is a consensus mechanism in blockchain networks where validators are chosen to create and validate new blocks based on the amount of cryptocurrency they hold and are willing to stake as collateral. Unlike Proof of Work (PoW), which relies on computational power, PoS relies on validators' economic stake in the network. Validators are selected to propose new blocks and validate transactions, with the probability of selection proportional to their stake. PoS offers benefits such as energy efficiency, security through economic incentives, and scalability, making it an alternative to PoW in many blockchain ecosystems.
 
 
 
