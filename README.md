@@ -72,7 +72,10 @@ Many companies like IBM (Hyperledger Fabric Framework) , R3 (Corda) , Microsoft 
    - Applications interact with lower layers to access blockchain data and functionality, enabling a wide range of decentralized services and experiences.
 
 10. Shashwat -
-<br><strong>Polygon</strong>
+<br><strong>Polygon</strong><br>
+   Polygon, is a layer 2 scaling solution for Ethereum that aims to improve its scalability and usability. Built on top of Ethereum, Polygon offers a framework for creating     interconnected blockchain networks, known as sidechains, that can execute transactions and run smart contracts independently while still benefiting from Ethereum's           security and decentralization. By utilizing these sidechains, Polygon significantly reduces transaction costs and speeds up transaction times, making decentralized           applications (dApps) more accessible and efficient. Moreover, Polygon's modular architecture allows developers to customize their sidechains to suit specific use cases, 
+   further enhancing the flexibility and scalability of the Ethereum ecosystem. With its focus on scalability, interoperability, and user experience, Polygon plays a vital 
+   role in realizing Ethereum's potential as a global platform for decentralized finance (DeFi), and other dAppps . 
 
-Polygon, is a layer 2 scaling solution for Ethereum that aims to improve its scalability and usability. Built on top of Ethereum, Polygon offers a framework for creating interconnected blockchain networks, known as sidechains, that can execute transactions and run smart contracts independently while still benefiting from Ethereum's security and decentralization. By utilizing these sidechains, Polygon significantly reduces transaction costs and speeds up transaction times, making decentralized applications (dApps) more accessible and efficient. Moreover, Polygon's modular architecture allows developers to customize their sidechains to suit specific use cases, further enhancing the flexibility and scalability of the Ethereum ecosystem. With its focus on scalability, interoperability, and user experience, Polygon plays a vital role in realizing Ethereum's potential as a global platform for decentralized finance (DeFi), and other dAppps . 
+
 
