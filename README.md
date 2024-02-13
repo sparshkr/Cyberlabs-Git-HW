@@ -21,6 +21,14 @@ Your task is to explore any topic in BlockChain which interests you and write a 
 
    Forking in the context of blockchain technology refers to the process by which a blockchain network diverges into two separate paths due to a fundamental disagreement among participants regarding the rules governing the blockchain's operation. There are two main types of forks: soft forks and hard forks. Soft forks occur when changes to the blockchain protocol are backward compatible, tightening the rules of consensus while allowing non-upgraded nodes to still function within the network. On the other hand, hard forks are not backward compatible and result in a permanent split of the blockchain into two separate chains, each following different sets of rules. Forks can be planned, scheduled upgrades to the blockchain protocol, or contentious, arising from significant disagreement within the community about proposed changes. While forking allows blockchain networks to adapt and evolve, it can also introduce uncertainty and volatility, as participants may disagree on the direction of the network and the validity of different chains.
 
+4. Pavantej -
+<br><strong>Smart Contracts</strong> -
+
+Smart contracts are self-executing contracts with the terms of theagreement directly written into code. Operating on blockchain technology,they automatically execute and enforce when predefined conditions are met,without the need for intermediaries. These contracts are revolutionizing variousindustries by providing transparency, security, and efficiency in transactions. With their immutable nature and decentralizedarchitecture, smart contracts eliminate the need for trust between parties,as the terms are enforced by the underlying blockchain network. They hold immense potential for streamlining processes infinance, supply chain management, real estate, and beyond, promising to reshape the future of contract execution and business interactions.
+
+
+
+
 
 
 
