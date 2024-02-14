@@ -86,4 +86,15 @@ Many companies like IBM (Hyperledger Fabric Framework) , R3 (Corda) , Microsoft 
 12. Bhavesh -
    Decentralized applications, or dApps, are like regular apps you use on your phone or computer, but with some key differences. Instead of being controlled by one company, they run on a network of computers that work together without a central authority. This makes them more secure and transparent because no single entity can control or censor them. dApps cover various areas, from games to social media, and they often use cryptocurrencies or digital tokens for transactions and incentives. 
 
+13. Ram Swaroop :-
+ <br><strong>Proof of Burn</strong><br>
+Proof of burn (PoB) is a consensus mechanism used in some blockchains to validate transactions and secure the network. In contrast to Proof of Work (PoW), which requires miners to solve complex computational puzzles, PoB requires miners to "burn" cryptocurrency, essentially sending it to an unspendable address.
+
+Miners burn coins: Miners send a certain amount of cryptocurrency to a verifiably unspendable address, effectively removing them from circulation. This demonstrates their commitment to the network and their willingness to invest in its long-term success.
+Burning is verified: The network verifies that the coins have been burned and cannot be retrieved.
+Miners earn rewards: Based on the amount of coins burned, miners earn rewards in the form of new cryptocurrency or transaction fees.
+Scarcity increases value: By reducing the total supply of coins, burning can potentially increase the value of the remaining coins.
+Proof of burn consensus mechanism:-
+Reduced energy consumption: PoB does not require miners to solve complex computational puzzles, which significantly reduces energy consumption compared to PoW.
+Potential for centralization: If a small group of miners controls a large amount of the burned coins, they could potentially gain undue influence over the network.
 
