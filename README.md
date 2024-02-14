@@ -77,5 +77,7 @@ Many companies like IBM (Hyperledger Fabric Framework) , R3 (Corda) , Microsoft 
    further enhancing the flexibility and scalability of the Ethereum ecosystem. With its focus on scalability, interoperability, and user experience, Polygon plays a vital 
    role in realizing Ethereum's potential as a global platform for decentralized finance (DeFi), and other dAppps . 
 
-
+11. Yakshit
+<br><strong>Proof-of-work</strong><br>
+   Proof-of-work (PoW) is a blockchain consensus mechanism that incentivizes network validation by rewarding miners for adding computational power and difficulty to the network. Cryptocurrencies like Litecoin, and Bitcoin are currently using PoW.  Ethereum was using PoW mechanism, but now shifted to Proof of Stake(PoS). The proof-of-work protocol required miners to go through an intense race of trial and error to find the nonce for a block. Only blocks with a valid nonce could be added to the chain. A major criticism of proof-of-work is the amount of energy output required to keep the network safe. To maintain security and decentralization, Ethereum switched from PoW to PoS.
 
