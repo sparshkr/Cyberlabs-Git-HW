@@ -77,5 +77,8 @@ Many companies like IBM (Hyperledger Fabric Framework) , R3 (Corda) , Microsoft 
    further enhancing the flexibility and scalability of the Ethereum ecosystem. With its focus on scalability, interoperability, and user experience, Polygon plays a vital 
    role in realizing Ethereum's potential as a global platform for decentralized finance (DeFi), and other dAppps . 
 
+11. Bhavesh -
+   Decentralized applications, or dApps, are like regular apps you use on your phone or computer, but with some key differences. Instead of being controlled by one company, they run on a network of computers that work together without a central authority. This makes them more secure and transparent because no single entity can control or censor them. dApps cover various areas, from games to social media, and they often use cryptocurrencies or digital tokens for transactions and incentives. 
+
 
 
