@@ -98,3 +98,6 @@ Proof of burn consensus mechanism:-
 Reduced energy consumption: PoB does not require miners to solve complex computational puzzles, which significantly reduces energy consumption compared to PoW.
 Potential for centralization: If a small group of miners controls a large amount of the burned coins, they could potentially gain undue influence over the network.
 
+14. Kashish :-
+   <br><strong>Hashing</strong><br>
+Hashing is the cryptographic process fundamental to its security and immutability. It involves taking an input of any size and producing a fixed-size string of characters, which serves as a unique digital fingerprint for the original data. In blockchain, each block contains a hash of the previous block's data, creating a chain of blocks linked together by these hashes. Any alteration to the data in a block would result in a completely different hash, alerting the network to tampering attempts. This property ensures the integrity of the blockchain, making it highly resistant to fraud and unauthorized changes. Hashing also facilitates efficient data retrieval and verification, crucial for consensus mechanisms like proof of work and proof of stake, which underpin the decentralized nature of blockchain networks. With the help of many such cryptographic hash algorithms like SHA and MD5 hashing of data can be done securely.
